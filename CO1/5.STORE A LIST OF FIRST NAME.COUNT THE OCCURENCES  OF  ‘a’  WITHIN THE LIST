@@ -1,0 +1,8 @@
+l = ['sweat','and','tears','suga']
+count=0
+print('total occurrence of a:')
+for i in l:
+	num= i.count('a')
+	count=count+num
+print(count)
+
